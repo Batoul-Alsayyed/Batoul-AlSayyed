@@ -12,7 +12,7 @@ I am an ambitious🤩, adventurous person who always thrives to learn new concep
 <br/>
 
 <br/><br/>
-#Computer Skills: Python, Java, C++, Html, Css, SQL, Mysql, Firebase, MIPS, JProlog, Laravel, React, Node js, Node js, Electron.
+#Computer Skills: Python, Java, C++, Html, Css, SQL, Mysql, Firebase, MIPS, JProlog, Laravel, React Js, Node js, Electron.
 <br/>
 #Languages: Arabic (Native Speaker), English (Fluent)
 <br/>
