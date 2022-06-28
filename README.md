@@ -2,7 +2,7 @@
 #I'm a Computer science minored math graduate from Beirut Arab University, Lebanon.👩🏻‍🎓
 <br/>
 #I am 21, I am a highly organised person 😎 so coding was a great job for someone like me who pays attention to the smallest details.
-I am an ambitious🤩, adventurous person who always thrives to learn new concepts, whenever I feel like I have some free time.
+I am an ambitious🤩 and adventurous person who always thrives to learn new concepts whenever I feel like I have some free time.
 #2022 Goals: Contribute more to Open Source Projects and to get a step further in Stack Web Development.💪
 -Fun Fact : I love to bake and to cycle🚲😇
 
